@@ -1,0 +1,8 @@
+{
+  "build": {
+    "env": {
+      "NEXT_PUBLIC_SUPABASE_URL": "https://hsdxifmjrekvnwiuzrgq.supabase.co",
+      "NEXT_PUBLIC_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImhzZHhpZm1qcmVrdm53aXV6cmdxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzkxODQyMjcsImV4cCI6MjA5NDc2MDIyN30.bg_cs0g1KWqvLNahPmRvKS8CKv_zSNUGDdIdE3OoWQU"
+    }
+  }
+}
